@@ -141,6 +141,6 @@ Coming soon — demo walkthroughs showcasing the full student and admin experien
 - **Catalina** 
 - **Nalani**
 - **Andrea**  
-- **Milan**   
+- **Milan**    
 - **Landon**    
 

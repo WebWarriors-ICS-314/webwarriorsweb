@@ -138,7 +138,9 @@ Coming soon — demo walkthroughs showcasing the full student and admin experien
 
 ## Team
 
-- **Alexa** – Concept Creator  
-- **Noah** – User Research & Testing  
-- **Tokyo** – Platform Ideation  
-- **Cat** – UI/UX Design ([Figma Mockup](https://www.figma.com/design/gn3wSQTofguqx5eSH5CgOW/ICS-314-Final?node-id=0-1&t=IWbqS3XHm6WedC8J-1))
+- **Catalina** 
+- **Nalani**
+- **Andrea**  
+- **Milan**   
+- **Landon**    
+

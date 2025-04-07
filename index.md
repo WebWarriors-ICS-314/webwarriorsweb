@@ -11,7 +11,7 @@
 * [Continuous Integration](#continuous-integration)
 * [Walkthrough Videos](#walkthrough-videos)
 * [Example Enhancements](#example-enhancements)
-* [Team](#team)
+* [Team Contract](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)
 
 ---
 
@@ -144,3 +144,4 @@ Coming soon — demo walkthroughs showcasing the full student and admin experien
 - **Milan**    
 - **Landon**    
 
+Our Team Contract can be found [here](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)

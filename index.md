@@ -86,11 +86,11 @@ The landing page introduces the app and provides login/register options.
 
 ## Community Feedback
 
-### 💬 Comment Section
+###  Comment Section
 
 Each note has an attached comment section for questions, feedback, and discussion between users and the note owner.
 
-### ⭐ Rating System
+###  Rating System
 
 - Notes are rated from 1–5 stars.
 - Average ratings are displayed on the note listing.

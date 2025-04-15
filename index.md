@@ -9,6 +9,7 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
+* [Figma Mockup](#figma-mockups)
 * [Walkthrough Videos](#walkthrough-videos)
 * [Example Enhancements](#example-enhancements)
 * [Team Contract](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)
@@ -118,6 +119,11 @@ The project originated from a shared problem UH Mānoa students faced: scattered
 ## Continuous Integration
 
 CI/CD pipelines will be implemented to automate testing and ensure smooth deployment. Currently managed manually via GitHub Pages settings.
+
+---
+## Figma Mockups
+
+[Figma Mockup](https://www.figma.com/design/gn3wSQTofguqx5eSH5CgOW/ICS-314-Final?node-id=0-1&p=f)
 
 ---
 

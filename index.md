@@ -157,6 +157,13 @@ Sign Out Page
 
 ---
 
+## Milestones
+
+**[M1](https://github.com/orgs/web-warriors-hub/projects/1/views/1)**
+**[M2](https://github.com/orgs/web-warriors-hub/projects/7)**
+
+---
+
 ## Example Enhancements
 
 - Email notifications for comments.

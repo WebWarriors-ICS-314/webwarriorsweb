@@ -20,7 +20,7 @@
 
 ## Overview
 
-NoteHub-Mānoa is a collaborative platform designed for UH Mānoa students to share, rate, and discuss lecture notes by course, semester, and professor. The app aims to reduce the stress of scrambling for study material before exams by building a community-driven library of class notes.
+[NoteHub-Mānoa](https://github.com/web-warriors-hub/web-warriors-hub.github.io) is a collaborative platform designed for UH Mānoa students to share, rate, and discuss lecture notes by course, semester, and professor. The app aims to reduce the stress of scrambling for study material before exams by building a community-driven library of class notes.
 
 It provides the following core features:
 

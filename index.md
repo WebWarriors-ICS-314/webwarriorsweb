@@ -147,6 +147,10 @@ Successfully Uploaded Note Page
 
 ![](images/upload-notes-success-page.png)
 
+Comments Page
+
+![](images/comment-page.png)
+
 Sign Out Page
 
 ![](images/signout-page.png)

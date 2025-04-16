@@ -136,7 +136,17 @@ CI/CD pipelines will be implemented to automate testing and ensure smooth deploy
 
 ## Walkthrough Videos
 
-Coming soon — demo walkthroughs showcasing the full student and admin experience.
+Uploading Notes Page
+
+![](images/upload-note.png)
+
+Successfully Uploaded Note Page
+
+![](images/upload-note.png)
+
+Sign Out Page
+
+![](images/upload-note.png)
 
 ---
 

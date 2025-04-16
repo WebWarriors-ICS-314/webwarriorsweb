@@ -116,6 +116,12 @@ The project originated from a shared problem UH Mānoa students faced: scattered
 
 ---
 
+## Development
+
+Deployed application running on Vercel at [Note-Hub Manoa](https://notehub-manoa.vercel.app)
+
+---
+
 ## Continuous Integration
 
 CI/CD pipelines will be implemented to automate testing and ensure smooth deployment. Currently managed manually via GitHub Pages settings.

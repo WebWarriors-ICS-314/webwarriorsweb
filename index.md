@@ -136,17 +136,20 @@ CI/CD pipelines will be implemented to automate testing and ensure smooth deploy
 
 ## Walkthrough Videos
 
-Uploading Notes Page
+Landing Page
+![](images/landing-page.png)
 
-![](images/upload-note.png)
+Upload Notes Page
+
+![](images/upload-notes-page.png)
 
 Successfully Uploaded Note Page
 
-![](images/upload-note.png)
+![](images/upload-notes-success-page.png)
 
 Sign Out Page
 
-![](images/upload-note.png)
+![](images/signout-page.png)
 
 ---
 

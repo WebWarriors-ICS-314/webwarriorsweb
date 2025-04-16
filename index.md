@@ -12,6 +12,7 @@
 * [Continuous Integration](#continuous-integration)
 * [Figma Mockup](#figma-mockups)
 * [Walkthrough Videos](#walkthrough-videos)
+* [Milestones](#milestones)
 * [Example Enhancements](#example-enhancements)
 * [Team Contract](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)
 

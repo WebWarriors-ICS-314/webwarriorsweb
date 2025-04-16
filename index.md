@@ -8,6 +8,7 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
+* [Development](#development)
 * [Continuous Integration](#continuous-integration)
 * [Figma Mockup](#figma-mockups)
 * [Walkthrough Videos](#walkthrough-videos)

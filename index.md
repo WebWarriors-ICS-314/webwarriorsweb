@@ -148,13 +148,21 @@ Successfully Uploaded Note Page
 
 ![](images/upload-notes-success-page.png)
 
-Comments Page
+View Notes Page
 
-![](images/comment-page.png)
+![](images/view-notes-page.png)
 
-Sign Out Page
+View **Your** Notes Page
 
-![](images/signout-page.png)
+![](images/your-notes-page.png)
+
+Sign In Page
+
+![](images/signin-page.png)
+
+Sign Up Page
+
+![](images/signup-page.png)
 
 ---
 

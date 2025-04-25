@@ -164,12 +164,17 @@ Sign Up Page
 
 ![](images/signup-page.png)
 
+Functional Database
+
+![](images/database-functional.png)
+
 ---
 
 ## Milestones
 
 **[M1](https://github.com/orgs/web-warriors-hub/projects/1/views/1)**
 **[M2](https://github.com/orgs/web-warriors-hub/projects/7)**
+**[M3](https://github.com/orgs/web-warriors-hub/projects/8)**
 
 ---
 

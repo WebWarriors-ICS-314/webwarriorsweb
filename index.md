@@ -1,5 +1,7 @@
 # NoteHub-Mānoa
 
+![ci-badge](https://github.com/web-warriors-hub/notehub-manoa/workflows/notehub-manoa/badge.svg)
+
 ## Table of Contents
 
 * [Overview](#overview)

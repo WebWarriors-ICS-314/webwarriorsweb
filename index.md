@@ -36,11 +36,16 @@ NoteHub-Mānoa is more than a file-sharing app—it's a student-built ecosystem 
 
 ### Landing Page
 Provides a quick introduction and options to log in or register.
+![](images/landing-page.png)
+
+### View All Notes
+- Filter and browse all shared notes without the need of signing in
+![](images/view-notes-page.png)
 
 ### Sign In / Sign Up
 - Secure authentication for access to full features.
-- ![](images/signin-page.png)
-- ![](images/signup-page.png)
+![](images/signin-page.png)
+![](images/signup-page.png)
 
 ### Upload Notes
 Steps:
@@ -50,19 +55,24 @@ Steps:
 4. Submit to share
 
 ![](images/upload-notes-page.png)  
-![](images/upload-notes-success-page.png)
+![](images/success-page.png)
 
 ### View Notes
 - Filter and browse all shared notes
 - Access note details, and download links
 
-![](images/view-notes-page.png)
+![](images/view-notes-page-nsi.png)
 
 ### Manage Your Notes
 - View, edit, and delete previously uploaded notes
 
-![](images/your-notes-page.png)
+![](images/view-your-notes.page.png)
 
+#### Edit Page
+![](images/edit-page.png)
+
+#### Delete Page
+![](images/delete-page.png)
 ---
 
 ## Community Feedback

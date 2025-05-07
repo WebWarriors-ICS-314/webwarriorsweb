@@ -1,200 +1,170 @@
+
 # NoteHub-Mānoa
 
 [![ci-badge](https://github.com/web-warriors-hub/notehub-manoa/workflows/notehub-manoa/badge.svg)](https://github.com/web-warriors-hub/notehub-manoa/actions)
 
 ## Table of Contents
 
-* [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Development](#development)
-* [Continuous Integration](#continuous-integration)
-* [Figma Mockup](#figma-mockups)
-* [Walkthrough Videos](#walkthrough-videos)
-* [Milestones](#milestones)
-* [Example Enhancements](#example-enhancements)
-* [Team Contract](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)
+- [Overview](#overview)
+- [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+- [Development History](#development-history)
+- [Contact Us](#contact-us)
+- [Deployment](#deployment)
+- [Continuous Integration](#continuous-integration)
+- [Figma Mockups](#figma-mockups)
+- [Walkthrough Videos](#walkthrough-videos)
+- [Milestones](#milestones)
+- [Example Enhancements](#example-enhancements)
 
 ---
 
 ## Overview
 
-[NoteHub-Mānoa](https://github.com/web-warriors-hub/web-warriors-hub.github.io) is a collaborative platform designed for UH Mānoa students to share, rate, and discuss lecture notes by course, semester, and professor. The app aims to reduce the stress of scrambling for study material before exams by building a community-driven library of class notes.
+[NoteHub-Mānoa](https://github.com/web-warriors-hub/web-warriors-hub.github.io) is a collaborative platform created by and for UH Mānoa students to share, search, and rate lecture notes. It addresses the common stress students face when preparing for exams without reliable study materials. What makes it unique:
 
-It provides the following core features:
+- Every student can upload their own notes
+- Filtering by **course**, **professor**, and **semester**
+- Ability to access notes from previous semesters
 
-* Upload and access class notes across UH Mānoa courses.
-* Filter notes by **course**, **professor**, and **semester**.
-* Comment and discuss uploaded notes with peers.
-* Rate notes on a 5-star scale based on usefulness.
-* Points-based system to encourage high-quality contributions.
-
-NoteHub-Mānoa is built by students, for students—fostering an academic ecosystem of collaboration and clarity.
-
----
-
-## Deployment
-
-The current deployment is managed through GitHub Pages and is available at:  
-**[https://notehub.github.io](https://notehub.github.io)** (pending GitHub Pages activation and repo setup)
+NoteHub-Mānoa is more than a file-sharing app—it's a student-built ecosystem for academic support.
 
 ---
 
 ## User Guide
 
-This section outlines typical user interactions with NoteHub-Mānoa.
-
 ### Landing Page
+Provides a quick introduction and options to log in or register.
 
-The landing page introduces the app and provides login/register options.
+### Sign In / Sign Up
+- Secure authentication for access to full features.
+- ![](images/signin-page.png)
+- ![](images/signup-page.png)
 
-### Uploading Notes
+### Upload Notes
+Steps:
+1. Log in
+2. Click "Upload Notes"
+3. Fill in note details (title, class, semester, professor, description, link)
+4. Submit to share
 
-1. Log in or create an account.
-2. Click on the **Upload Notes** button in the nav bar.
-3. Complete the following fields:
-   - Title
-   - Department and Class
-   - Semester
-   - Professor
-   - Description
-   - Link to Notes (e.g., Google Drive, GitHub)
-   - Optional: Owner Email (defaults to anonymous)
-4. Submit to publish the note listing.
+![](images/upload-notes-page.png)  
+![](images/upload-notes-success-page.png)
 
-### Editing Notes
+### View Notes
+- Filter and browse all shared notes
+- Access note details, and download links
 
-1. Log in and click on **Edit Notes** (visible only to users who have uploaded notes).
-2. View a list of your uploads.
-3. Select a note to update.
-4. Modify any field and resubmit.
-5. Changes are reflected immediately on the View Notes page.
+![](images/view-notes-page.png)
 
-### Searching for Notes
+### Manage Your Notes
+- View, edit, and delete previously uploaded notes
 
-1. Visit the **View Notes** page.
-2. Use the search bar to filter by:
-   - Course
-   - Professor
-   - Semester
-3. Browse notes with metadata including:
-   - Author
-   - Document Link
-   - Course Details
-   - Rating
-   - Description
+![](images/your-notes-page.png)
 
 ---
 
 ## Community Feedback
 
-###  Comment Section
+### Rating System
+- Users rate notes from 1–5 stars based on clarity and usefulness.
+- Ratings directly influence the uploader’s points.
 
-Each note has an attached comment section for questions, feedback, and discussion between users and the note owner.
-
-###  Rating System
-
-- Notes are rated from 1–5 stars.
-- Average ratings are displayed on the note listing.
-- Users **must rate notes** after viewing.
+### Comment Section
+- Open feedback loop between uploader and students.
+- Users can ask questions or provide suggestions.
 
 ---
 
 ## Developer Guide
 
-### Points-Based System
+### Local Development
 
-- Users earn points when their notes are rated.
-- Higher ratings earn more points.
-- Accessing highly-rated notes costs more points.
-- This rewards quality note-taking and discourages freeloading.
+To run NoteHub-Mānoa locally:
+
+```bash
+git clone https://github.com/web-warriors-hub/notehub-manoa.git
+cd notehub-manoa
+npm install
+npm run dev
+```
+
+### Deployment
+
+We use [Vercel](https://notehub-manoa.vercel.app) for deployment. You can also deploy using GitHub Pages. Adjust the base path as needed in `next.config.js`.
+
+### Technologies Used
+
+- Next.js
+- Vercel
+- Bootstrap
+- PgAdmin
+- Postgres
+- GitHub Actions for CI/CD
 
 ---
 
 ## Development History
 
-The project originated from a shared problem UH Mānoa students faced: scattered, low-quality, or inaccessible notes. The idea emerged from real conversations between students trying to prep for exams using incomplete or disorganized materials.
+### Milestone 1
+[M1 Project Board](https://github.com/orgs/web-warriors-hub/projects/1/views/1)
+- Ideation and wireframes
+- Team contract and initial planning
+
+### Milestone 2
+[M2 Project Board](https://github.com/orgs/web-warriors-hub/projects/7)
+- Frontend pages and form logic
+- Firebase integration for auth and storage
+
+### Milestone 3
+[M3 Project Board](https://github.com/orgs/web-warriors-hub/projects/8)
+- Comment and rating system
+- Points-based access control
+- Community feedback integration
+- Final UI polish and deployment
 
 ---
 
-## Development
+## Contact Us
 
-Deployed application running on Vercel at [Note-Hub Manoa](https://notehub-manoa.vercel.app)
+### Developers
+- [Catalina](https://github.com/cat-mb)  
+- [Andrea](https://github.com/andreamurillomtz)  
+- [Milan](https://github.com/milanbukovics)  
+- [Landon](https://github.com/lkihe)  
+- [Nalani](https://github.com/NalaniKlopfen)  
+
+Have questions, feedback, or want to collaborate?  
+📩 [Open an issue on GitHub](https://github.com/web-warriors-hub/notehub-manoa/issues)  
+
+Team Contract: [Link](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)
+
+---
+
+## Deployment
+
+- Live Vercel App: [notehub-manoa.vercel.app](https://notehub-manoa.vercel.app)
+- GitHub: [notehub.github.io](https://notehub.github.io)
 
 ---
 
 ## Continuous Integration
 
-CI/CD pipelines will be implemented to automate testing and ensure smooth deployment. Currently managed manually via GitHub Pages settings.
+GitHub Actions automates lint checks and tests on every push. Future CI will include deployment and E2E testing.
 
 ---
+
 ## Figma Mockups
 
-[Figma Mockup](https://www.figma.com/design/gn3wSQTofguqx5eSH5CgOW/ICS-314-Final?node-id=0-1&p=f)
-
----
-
-## Walkthrough Videos
-
-Landing Page
-![](images/landing-page.png)
-
-Upload Notes Page
-
-![](images/upload-notes-page.png)
-
-Successfully Uploaded Note Page
-
-![](images/upload-notes-success-page.png)
-
-View Notes Page
-
-![](images/view-notes-page.png)
-
-View **Your** Notes Page
-
-![](images/your-notes-page.png)
-
-Sign In Page
-
-![](images/signin-page.png)
-
-Sign Up Page
-
-![](images/signup-page.png)
-
-Functional Database
-
-![](images/database-functional.png)
-
----
-
-## Milestones
-
-**[M1](https://github.com/orgs/web-warriors-hub/projects/1/views/1)**
-**[M2](https://github.com/orgs/web-warriors-hub/projects/7)**
-**[M3](https://github.com/orgs/web-warriors-hub/projects/8)**
+[View Mockups](https://www.figma.com/design/gn3wSQTofguqx5eSH5CgOW/ICS-314-Final?node-id=0-1&p=f)
 
 ---
 
 ## Example Enhancements
 
-- Email notifications for comments.
-- Integration with UH accounts.
-- PDF preview of notes before opening.
-- AI-generated summaries or tags for uploaded notes.
-
----
-
-## Team
-
-- **Catalina** 
-- **Nalani**
-- **Andrea**  
-- **Milan**    
-- **Landon**    
-
-Our Team Contract can be found [here](https://docs.google.com/document/d/1IHEfQtw1nb9-c-XlJGUT-TiZKemAvDFH050V7u3n5Wg/edit?tab=t.0)
+- UH Account Integration (SSO)
+- AI-generated note summaries
+- PDF previews before download
+- Email alerts for new notes in your classes
+- Gamification of notes     

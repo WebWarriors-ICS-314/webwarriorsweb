@@ -73,6 +73,7 @@ Steps:
 
 #### Delete Page
 ![](images/delete-page1.png)
+
 ---
 
 ## Community Feedback

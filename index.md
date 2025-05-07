@@ -67,13 +67,7 @@ Steps:
 
 ## Community Feedback
 
-### Rating System
-- Users rate notes from 1–5 stars based on clarity and usefulness.
-- Ratings directly influence the uploader’s points.
-
-### Comment Section
-- Open feedback loop between uploader and students.
-- Users can ask questions or provide suggestions.
+TODO
 
 ---
 

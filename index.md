@@ -78,7 +78,27 @@ Steps:
 
 ## Community Feedback
 
-TODO
+We gathered valuable feedback from users who tested the app. Here are some highlights and our planned responses:
+
+- **Landing Page Button Placement:**  
+  Several users mentioned that the buttons on the landing page were located too low on the screen, making them hard to find. Users expect to quickly understand what actions they can take upon arrival. In future iterations, we will move these buttons higher so they are visible without scrolling.
+
+- **Upload Notes Page Length:**  
+  Feedback indicated that the upload page felt too long and had too many input fields. To improve usability, we plan to simplify this form by reducing the number of fields and making the layout more intuitive.
+
+- **Ease of Use and Clean Design:**  
+  Many users appreciated the simple, clean design and easy navigation of the site. The clarity of instructions on the upload page was also positively noted.
+
+- **Filter Feature:**  
+  Users found the filtering feature particularly helpful. It allows them to quickly find relevant notes without scrolling through a long list. The filter options were described as intuitive and user-friendly.
+
+- **Accessibility for Non-STEM Majors:**  
+  One non-STEM student mentioned how difficult it can be to find quality study materials for their classes. They found the app helpful for locating useful notes and appreciated the ability to rate and comment on materials.
+
+---
+
+Overall, the community feedback was overwhelmingly positive. We’re excited to keep refining the app based on these suggestions to make it even more helpful for students.
+
 
 ---
 
